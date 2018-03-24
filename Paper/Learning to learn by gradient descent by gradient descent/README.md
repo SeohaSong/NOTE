@@ -25,4 +25,4 @@
 이 논문에서 제시한 알고리즘은 LSTM에 적용되었으며, 일반적인 사람이 만든 LSTM보다
 학습 데이터를 더 잘 학습하고, 새로운 예측에 대해서도 더 잘 예측하였습니다.
 
-...
+[...](https://github.com/SeohaSong/NOTE/blob/master/Paper/Learning%20to%20learn%20by%20gradient%20descent%20by%20gradient%20descent/README.ipynb)
