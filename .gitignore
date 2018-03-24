@@ -6,4 +6,3 @@ gitfree/*
 !gitfree/.gitkeep
 
 *.vscode
-*.idea
