@@ -31,4 +31,4 @@ Meta learning 관련 논문으로는 AutoML등이 있으며,
 
 Meta learning은 Few-shot learning(One-shot, Zero-shot 등등)과도 관련이 있습니다.
 
-[더보기](./Learning%20to%20learn%20by%20gradient%20descent%20by%20gradient%20descent/README.ipynb)
+[더보기](./README.ipynb)
