@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configure>
+ <experiment name="pattern-pl">
+  <challenge type="pattern">
+   869347
+  </challenge>
+  <challenge type="pattern">
+   8340
+  </challenge>
+  <challenge type="pattern">
+   0563
+  </challenge>
+  <challenge type="pattern">
+   98246
+  </challenge>
+  <challenge type="pattern">
+   40183562
+  </challenge>
+  <challenge type="pattern">
+   93527108
+  </challenge>
+  <challenge type="pattern">
+   859712
+  </challenge>
+  <challenge type="pattern">
+   6254893
+  </challenge>
+  <challenge type="pattern">
+   6147238
+  </challenge>
+  <challenge type="pattern">
+   214935
+  </challenge>
+  <challenge type="pattern">
+   71039546
+  </challenge>
+  <challenge type="pattern">
+   45368
+  </challenge>
+  <challenge type="pattern">
+   4367021
+  </challenge>
+  <challenge type="pattern">
+   8216574
+  </challenge>
+  <challenge type="pattern">
+   10584
+  </challenge>
+  <challenge type="pattern">
+   14692
+  </challenge>
+  <challenge type="pattern">
+   49251603
+  </challenge>
+  <challenge type="pattern">
+   7905164
+  </challenge>
+  <challenge type="pattern">
+   021453
+  </challenge>
+  <challenge type="pattern">
+   3465
+  </challenge>
+  <challenge type="pattern">
+   347891
+  </challenge>
+  <challenge type="pattern">
+   92834
+  </challenge>
+  <challenge type="pattern">
+   2531948
+  </challenge>
+  <challenge type="pattern">
+   8209
+  </challenge>
+  <challenge type="pattern">
+   182740
+  </challenge>
+  <challenge type="pattern">
+   6915
+  </challenge>
+  <challenge type="pattern">
+   56027
+  </challenge>
+  <challenge type="pattern">
+   314869
+  </challenge>
+  <challenge type="pattern">
+   6204
+  </challenge>
+  <challenge type="pattern">
+   3085
+  </challenge>
+  <challenge type="pattern">
+   236704
+  </challenge>
+  <challenge type="pattern">
+   31985706
+  </challenge>
+  <challenge type="pattern">
+   2106
+  </challenge>
+  <challenge type="pattern">
+   7819
+  </challenge>
+  <challenge type="pattern">
+   7509
+  </challenge>
+  <challenge type="pattern">
+   182069
+  </challenge>
+  <challenge type="pattern">
+   902873
+  </challenge>
+  <challenge type="pattern">
+   6915
+  </challenge>
+  <challenge type="pattern">
+   9135678
+  </challenge>
+  <challenge type="pattern">
+   502983
+  </challenge>
+  <challenge type="pattern">
+   3802165
+  </challenge>
+  <challenge type="pattern">
+   69851274
+  </challenge>
+  <challenge type="pattern">
+   618029
+  </challenge>
+  <challenge type="pattern">
+   1089657
+  </challenge>
+  <challenge type="pattern">
+   68792153
+  </challenge>
+  <challenge type="pattern">
+   31609487
+  </challenge>
+  <challenge type="pattern">
+   72051
+  </challenge>
+  <challenge type="pattern">
+   9268
+  </challenge>
+  <challenge type="pattern">
+   1597826
+  </challenge>
+  <challenge type="pattern">
+   13870
+  </challenge>
+  <challenge type="pattern">
+   48037
+  </challenge>
+  <challenge type="pattern">
+   285791
+  </challenge>
+  <challenge type="pattern">
+   59478132
+  </challenge>
+  <challenge type="pattern">
+   401326
+  </challenge>
+  <challenge type="pattern">
+   4850
+  </challenge>
+  <challenge type="pattern">
+   547802
+  </challenge>
+  <challenge type="pattern">
+   4850
+  </challenge>
+  <challenge type="pattern">
+   752910
+  </challenge>
+  <challenge type="pattern">
+   92563048
+  </challenge>
+  <challenge type="pattern">
+   08567
+  </challenge>
+  <challenge type="pattern">
+   68925471
+  </challenge>
+  <challenge type="pattern">
+   8469235
+  </challenge>
+  <challenge type="pattern">
+   41075
+  </challenge>
+  <challenge type="pattern">
+   8576104
+  </challenge>
+  <challenge type="pattern">
+   30492
+  </challenge>
+  <challenge type="pattern">
+   81729403
+  </challenge>
+  <challenge type="pattern">
+   73624098
+  </challenge>
+  <challenge type="pattern">
+   4719058
+  </challenge>
+  <challenge type="pattern">
+   482510
+  </challenge>
+  <challenge type="pattern">
+   84279
+  </challenge>
+  <challenge type="pattern">
+   698143
+  </challenge>
+  <challenge type="pattern">
+   04679532
+  </challenge>
+  <challenge type="pattern">
+   59478132
+  </challenge>
+  <challenge type="pattern">
+   832156
+  </challenge>
+  <challenge type="pattern">
+   832401
+  </challenge>
+  <challenge type="pattern">
+   2835461
+  </challenge>
+  <challenge type="pattern">
+   30492
+  </challenge>
+  <challenge type="pattern">
+   5820
+  </challenge>
+  <challenge type="pattern">
+   2863
+  </challenge>
+  <challenge type="pattern">
+   92714
+  </challenge>
+  <challenge type="pattern">
+   4063859
+  </challenge>
+  <challenge type="pattern">
+   2106
+  </challenge>
+  <challenge type="pattern">
+   832156
+  </challenge>
+  <challenge type="pattern">
+   3920
+  </challenge>
+  <challenge type="pattern">
+   89263175
+  </challenge>
+  <challenge type="pattern">
+   6340
+  </challenge>
+  <challenge type="pattern">
+   3194
+  </challenge>
+  <challenge type="pattern">
+   5089376
+  </challenge>
+  <challenge type="pattern">
+   3146958
+  </challenge>
+  <challenge type="pattern">
+   957810
+  </challenge>
+  <challenge type="pattern">
+   2106
+  </challenge>
+  <challenge type="pattern">
+   7146
+  </challenge>
+  <challenge type="pattern">
+   74368
+  </challenge>
+  <challenge type="pattern">
+   807564
+  </challenge>
+  <challenge type="pattern">
+   92163504
+  </challenge>
+  <challenge type="pattern">
+   520196
+  </challenge>
+  <challenge type="pattern">
+   217498
+  </challenge>
+  <challenge type="pattern">
+   96012734
+  </challenge>
+  <challenge type="pattern">
+   78402163
+  </challenge>
+  <challenge type="pattern">
+   50398
+  </challenge>
+ </experiment>
+</configure>
