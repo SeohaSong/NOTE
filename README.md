@@ -8,6 +8,6 @@
 
 ```bash
 
-bash update_note.sh
+bash update-note.sh
 
 ```
